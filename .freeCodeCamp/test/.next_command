@@ -341,3 +341,7 @@ history -a
 help [[
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+[[ hello == hello ]]
+echo $?
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
