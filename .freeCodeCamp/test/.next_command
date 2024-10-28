@@ -133,3 +133,21 @@ sleep 3
 __vsc_prompt_cmd_original
 help
 help while
+./countdown.sh 1
+./countdown.sh 1
+./countdown.sh 1
+./countdown.sh 1
+./countdown.sh 1
+./countdown.sh 1
+./countdown.sh 1
+./countdown.sh 1
+./countdown.sh 1
+./countdown.sh 1
+./countdown.sh 3
+./countdown.sh
+./countdown.sh
+./countdown.sh
+./countdown.sh
+__vsc_prompt_cmd_original
+clear
+help while
