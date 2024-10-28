@@ -60,3 +60,4 @@ __vsc_prompt_cmd_original
 touch countdown.sh
 chmod +x countdown.sh
 which bash
+./countdown.sh
