@@ -299,3 +299,12 @@ history -a
 declare -p ARR
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+echo ${ARR[<index>]}
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo ${RESPONSES[5]}
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo ${RESPONSES[5]}
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
