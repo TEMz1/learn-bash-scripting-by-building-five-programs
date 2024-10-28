@@ -276,3 +276,6 @@ history -a
 ./bingo.sh
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+touch fortune.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
