@@ -151,3 +151,4 @@ help while
 __vsc_prompt_cmd_original
 clear
 help while
+./countdown.sh 5
