@@ -371,3 +371,7 @@ history -a
 echo $VAR
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+[[ $VAR == "hello world" ]]
+echo $?
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
