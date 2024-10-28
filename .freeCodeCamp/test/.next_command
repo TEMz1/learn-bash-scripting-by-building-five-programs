@@ -120,3 +120,4 @@ help test
 ./countdown.sh 3
 ./countdown.sh -1
 help
+./countdown.sh 10
