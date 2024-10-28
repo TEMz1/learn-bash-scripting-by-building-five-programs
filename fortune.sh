@@ -13,4 +13,12 @@ do
   GET_FORTUNE
 done
 
+function GET_FORTUNE() {
+  if [[ ! $1 ]]
+  then
+    echo Ask a yes or no question:
+  fi
+
+  read QUESTION
+}
 echo ${RESPONSES[$N]}
