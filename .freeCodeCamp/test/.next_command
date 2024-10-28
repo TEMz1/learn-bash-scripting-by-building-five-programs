@@ -186,3 +186,6 @@ history -a
 ./bingo.sh
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+I=0
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
