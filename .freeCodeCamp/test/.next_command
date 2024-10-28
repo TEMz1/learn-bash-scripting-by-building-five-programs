@@ -249,3 +249,6 @@ history -a
 declare -p RANDOM
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+echo $(( RANDOM % 75 ))
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
