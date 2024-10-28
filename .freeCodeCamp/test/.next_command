@@ -361,3 +361,7 @@ history -a
 echo $?
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+[[ "hello world" =~ ^h.+d$ ]]
+echo $?
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
