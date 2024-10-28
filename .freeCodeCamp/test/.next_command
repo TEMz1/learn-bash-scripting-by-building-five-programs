@@ -335,3 +335,6 @@ history -a
 help until
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+./fortune.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
