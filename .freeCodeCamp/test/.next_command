@@ -291,3 +291,8 @@ history -a
 echo ${ARR[1]}
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo ${ARR[@]}
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
