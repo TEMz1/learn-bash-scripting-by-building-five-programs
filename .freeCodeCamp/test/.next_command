@@ -77,3 +77,5 @@ __vsc_prompt_cmd_original
 help
 help if
 help [[ expression ]]
+help if
+help test
