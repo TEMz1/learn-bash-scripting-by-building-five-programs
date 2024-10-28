@@ -285,3 +285,6 @@ history -a
 ./fortune.sh
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+ARR=("a" "b" "c")
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
