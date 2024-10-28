@@ -111,3 +111,4 @@ bad_file.txt
 [[ -a bad_file.txt ]]
 ./countdown.sh
 [[ -x countdown.sh ]]
+help [[
