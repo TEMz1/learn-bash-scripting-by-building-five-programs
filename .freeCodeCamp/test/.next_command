@@ -225,3 +225,6 @@ history -a
 echo $I
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+J=$(( I - 6 ))
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
