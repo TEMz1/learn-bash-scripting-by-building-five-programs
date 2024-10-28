@@ -329,3 +329,9 @@ history -a
 help
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+help untul
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+help until
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
