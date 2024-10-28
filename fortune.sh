@@ -20,7 +20,11 @@ then
 else
   echo Try again. Make sure it ends with a question mark:
 fi
-
   read QUESTION
+  until [[ $QUESTION =~ \?$ ]]
+do
+  GET_FORTUNE again
+done
 }
+
 echo ${RESPONSES[$N]}
