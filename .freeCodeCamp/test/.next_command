@@ -317,3 +317,6 @@ history -a
 help
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+help function
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
