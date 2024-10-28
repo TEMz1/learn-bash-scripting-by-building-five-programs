@@ -165,3 +165,6 @@ history -a
 printenv
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+echo $LANG
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
